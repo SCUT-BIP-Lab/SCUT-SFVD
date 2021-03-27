@@ -1,5 +1,5 @@
-# SCUT-SFVD
-SCUT-SFVD: A Finger Vein Spoofing/Presentation Attack Database
+# SCUT-FVD
+SCUT-FVD: A Finger Vein Spoofing/Presentation Attack Database
 
 ## Short Information
 SCUT FV Presentation Attack Database (hereinafter: SCUT FVD) is used for scientific research of finger vein recognition. It is collected by BIP Lab, School of Automation Science and Engineering, South China University of Technology(SCUT). Any one or group is allowed to use this database free of charge.  
@@ -40,12 +40,12 @@ NOTE: When processing these images, you only need to consider the first two labe
   *spoof/1/1_1_0_5_3.bmp   
 
 ## Request
-The SCUT-SFVD is publicly available (free of charge) to the research community.  
+The SCUT-FVD is publicly available (free of charge) to the research community.  
 Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
 
 Those interested in obtaining SCUT-SFVD should download [release agreement](https://github.com/BIP-Lab/SCUT--SFVD/blob/master/SCUT%20FV%20Presentation%20Attack%20Database%20Release%20Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com.
 
-While reporting results using the SCUT-SFVD, please cite the following article:  
+While reporting results using the SCUT-FVD, please cite the following article:  
 @article{qiu2018finger,  
   title={Finger Vein Presentation Attack Detection Using Total Variation Decomposition},  
   author={Qiu, Xinwei and Kang, Wenxiong and Tian, Senping and Jia, Wei and Huang, Zhixing},  
